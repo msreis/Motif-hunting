@@ -1,4 +1,4 @@
-# Motif-Hunting
+# Motif-hunting
 
 A simple program to validate an algorithm for acquisition of 4-vertex motifs in weighted interactome maps.
 
